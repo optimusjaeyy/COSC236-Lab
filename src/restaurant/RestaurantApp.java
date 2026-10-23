@@ -2,10 +2,12 @@ package restaurant;
 // Main class to demonstrate collaboration
 public class RestaurantApp {
     public static void main(String[] args) {
-        // Creating customer
-        Customer customer = new Customer("Alice");
+        // Creating customer,
+        /**changed name -charan*/
+        Customer customer = new Customer("Bob");
         
         // Creating menu items
+      /**Added a dollar to everymenu item-Charan */
         MenuItem pizza = new MenuItem("Pizza", 8.99);
         MenuItem burger = new MenuItem("Burger", 5.49);
         MenuItem soda = new MenuItem("Soda", 1.99);
