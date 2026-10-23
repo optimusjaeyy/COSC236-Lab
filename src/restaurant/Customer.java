@@ -8,8 +8,9 @@ public class Customer {
         this.name = name;
         this.order = new Order();  // Collaborating with Order class
     }
-
-    public void addMenuItemToOrder(MenuItem item) {
+    
+    /** Changed the method name from addMenuItemToOrder to addToOrder - Jen*/
+    public void addToOrder(MenuItem item) {
         order.addItem(item);  // Collaborating with Order to add items
     }
 
