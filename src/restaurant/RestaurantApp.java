@@ -8,9 +8,9 @@ public class RestaurantApp {
         
         // Creating menu items
       /**Added a dollar to everymenu item-Charan */
-        MenuItem pizza = new MenuItem("Pizza", 8.99);
-        MenuItem burger = new MenuItem("Burger", 5.49);
-        MenuItem soda = new MenuItem("Soda", 1.99);
+        MenuItem pizza = new MenuItem("Pizza", 9.99);
+        MenuItem burger = new MenuItem("Burger", 6.49);
+        MenuItem soda = new MenuItem("Soda", 2.99);
         
         // Customer adds items to their order
         /** Changed the method name from addMenuItemToOrder to addToOrder - Jen*/
