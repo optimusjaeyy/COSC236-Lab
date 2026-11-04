@@ -1,7 +1,6 @@
 package lab4.library;
  
 public class Book {
-
 	// GRASP Principle: Information Expert
 	// Manages its own state (available or borrowed).
 	private String title;
@@ -33,7 +32,7 @@ public Book(String title, String author) {
 		this.author = author;
 	} 
 	
-	// TODO: implement Book functionality 
+	// DONE: implement Book functionality 
 //checking if the book is available to borrow or not 
 	public boolean borrow() {
 		if(isAvailable) {
