@@ -1,5 +1,8 @@
 package lab4.library;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Library {
 	
 	//  GRASP Principles: Creator, Controller
@@ -14,23 +17,21 @@ public class Library {
 	private List<Book> catalog;
 	private List<Member> members;
 
-
-
 	// DONE: implement functionality of Member class
 	public Library() {
-		this.catalog = catalog;
-		this.members = members;
+		this.catalog = new ArrayList<>();
+		this.members = new ArrayList<>();
 	}
 	
 	public void addBook(String title, String author) {
-		if(title != null || !title.isEmpty()) {
+		if(title != null && !title.isEmpty()) {
 			catalog.add(new Book(title, author));
 		}
 	}
 	
-	public void registerMmeber(String name) {
-		if(name != null || !name.isEmpty()) {
-			members.add(new Member(name));
+	public void registerMember(String name, int memberId) {
+		if(name != null && !name.isEmpty()) {
+			members.add(new Member(name, memberId));
 		}
 	}
 	
@@ -43,9 +44,9 @@ public class Library {
 		return null;
 	}
 	
-	public Member findMemberByName(String name) {
+	public Member findMemberByName(String name, int memberId) {
 		for(Member member: members) {
-			if(member.getName().equalsIgnoreCase(name)) {
+			if(member.getName().equalsIgnoreCase(name) && member.getMemberID() == memberId) {
 				return member;
 			}
 		}
