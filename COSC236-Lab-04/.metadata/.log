@@ -1,0 +1,68 @@
+!SESSION 2026-11-04 20:28:53.612 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:28:54.780
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:29:01.858
+!MESSAGE Logback config file: /Users/charanjuneja/Documents/GitHub/COSC236-Lab/COSC236-Lab-04/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2026-11-04 20:29:42.902 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:29:44.149
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:29:48.001
+!MESSAGE Logback config file: /Users/charanjuneja/Documents/GitHub/COSC236-Lab/COSC236-Lab-04/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2026-11-04 20:31:27.243 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:31:28.907
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:31:42.064
+!MESSAGE Logback config file: /Users/charanjuneja/Documents/GitHub/COSC236-Lab/COSC236-Lab-04/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2026-11-04 20:41:19.309 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:41:20.578
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:41:25.445
+!MESSAGE Logback config file: /Users/charanjuneja/Documents/GitHub/COSC236-Lab/COSC236-Lab-04/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-11-04 20:41:28.518
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.oomph.setup.presentation.NotificationView" id and the "Notification" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2026-11-04 20:41:46.438 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/charanjuneja/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:41:47.728
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-04 20:41:54.945
+!MESSAGE Logback config file: /Users/charanjuneja/Documents/GitHub/COSC236-Lab/COSC236-Lab-04/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
